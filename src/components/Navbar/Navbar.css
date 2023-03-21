@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     background: var(--color-black);
-
+    position: fixed;
     padding: 1rem 2rem;
 }
 
@@ -28,7 +28,6 @@
 }
 
 .app__navbar-links li {
-    color: var(--color-white);
     margin: 0 1rem;
     cursor: pointer;
 }
@@ -85,6 +84,10 @@
     position: absolute;
     top: 20px;
     right: 20px;
+}
+
+.app__navbar-smallscreen_overlay .overlay__close:hover {
+    color: var(--color-white);
 }
 
 .app__navbar-smallscreen_links {

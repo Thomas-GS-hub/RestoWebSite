@@ -17,6 +17,9 @@ const Intro = () => {
       vidRef.current.play();
     }
   }
+  const handleVideoEnded = () => {
+    handleVideo();
+  }
 
   return (
     <div className='app__video'>
@@ -24,9 +27,10 @@ const Intro = () => {
         src={meal}
         ref={vidRef}
         type='video/mp4'
-        Loop
+        loop={false}
         controls={false}
         muted
+        onEnded={handleVideoEnded}
       />
       <div className='app__video-overlay flex__center'>
         <div 
