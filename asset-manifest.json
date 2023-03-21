@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RestoWebSite/static/css/main.cf204b3c.css",
-    "main.js": "/RestoWebSite/static/js/main.bdf3bd36.js",
+    "main.css": "/RestoWebSite/static/css/main.3c5b4657.css",
+    "main.js": "/RestoWebSite/static/js/main.ee142070.js",
     "static/media/meal.mp4": "/RestoWebSite/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/RestoWebSite/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/RestoWebSite/static/media/welcome.d724eb984456d9c97470.png",
@@ -24,11 +24,11 @@
     "static/media/sign.png": "/RestoWebSite/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/RestoWebSite/index.html",
     "static/media/spoon.svg": "/RestoWebSite/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.cf204b3c.css.map": "/RestoWebSite/static/css/main.cf204b3c.css.map",
-    "main.bdf3bd36.js.map": "/RestoWebSite/static/js/main.bdf3bd36.js.map"
+    "main.3c5b4657.css.map": "/RestoWebSite/static/css/main.3c5b4657.css.map",
+    "main.ee142070.js.map": "/RestoWebSite/static/js/main.ee142070.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf204b3c.css",
-    "static/js/main.bdf3bd36.js"
+    "static/css/main.3c5b4657.css",
+    "static/js/main.ee142070.js"
   ]
 }
